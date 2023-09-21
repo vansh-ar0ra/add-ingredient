@@ -1,0 +1,90 @@
+[
+  {
+    "ingredientName": "angel hair pasta",
+    "ingredientID": "Angel_Hair_Pasta",
+    "quantity": 16,
+    "unit": "oz",
+    "notes": "",
+    "optional": false
+  },
+  {
+    "ingredientName": "thin asparagus",
+    "ingredientID": "Thin_Asparagus",
+    "quantity": 16,
+    "unit": "oz",
+    "notes": "ends trimmed, cut into 2-inch pieces",
+    "optional": false
+  },
+  {
+    "ingredientName": "unsalted butter",
+    "ingredientID": "Unsalted_Butter",
+    "quantity": 8,
+    "unit": "tbsp",
+    "notes": "",
+    "optional": false
+  },
+  {
+    "ingredientName": "garlic cloves",
+    "ingredientID": "Garlic_Cloves",
+    "quantity": 6,
+    "unit": "cloves",
+    "notes": "minced",
+    "optional": false
+  },
+  {
+    "ingredientName": "jumbo shrimp",
+    "ingredientID": "Jumbo_Shrimp",
+    "quantity": 16,
+    "unit": "oz",
+    "notes": "peeled and deveined",
+    "optional": false
+  },
+  {
+    "ingredientName": "kosher salt",
+    "ingredientID": "Kosher_Salt",
+    "quantity": 1,
+    "unit": "tsp",
+    "notes": "",
+    "optional": false
+  },
+  {
+    "ingredientName": "good-quality dry white wine",
+    "ingredientID": "Dry_White_Wine",
+    "quantity": 1,
+    "unit": "cup",
+    "notes": "",
+    "optional": false
+  },
+  {
+    "ingredientName": "lemon juice",
+    "ingredientID": "Lemon_Juice",
+    "quantity": 8,
+    "unit": "tbsp",
+    "notes": "from about 2 lemons",
+    "optional": false
+  },
+  {
+    "ingredientName": "chopped fresh parsley",
+    "ingredientID": "Chopped_Fresh_Parsley",
+    "quantity": 2,
+    "unit": "tbsp",
+    "notes": "plus more for garnish (optional)",
+    "optional": false
+  },
+  {
+    "ingredientName": "extra virgin olive oil",
+    "ingredientID": "Extra_Virgin_Olive_Oil",
+    "quantity": 0,
+    "unit": "for drizzling",
+    "notes": "",
+    "optional": false
+  },
+  {
+    "ingredientName": "minced dill",
+    "ingredientID": "Minced_Dill",
+    "quantity": 1,
+    "unit": "tsp",
+    "notes": "for garnish (optional)",
+    "optional": false
+  }
+]

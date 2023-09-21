@@ -1,0 +1,182 @@
+[
+  {
+    "ingredientName": "Ground Chuck",
+    "ingredientID": "Ground_Chuck",
+    "quantity": 24,
+    "unit": "oz",
+    "notes": "(80% lean)"
+  },
+  {
+    "ingredientName": "White Onion",
+    "ingredientID": "White_Onion",
+    "quantity": 1.5,
+    "unit": "cups",
+    "notes": "small-diced (about 1 small)"
+  },
+  {
+    "ingredientName": "Italian Seasoning",
+    "ingredientID": "Italian_Seasoning",
+    "quantity": 3,
+    "unit": "tsp"
+  },
+  {
+    "ingredientName": "Black Pepper",
+    "ingredientID": "Black_Pepper",
+    "quantity": 1,
+    "unit": "tsp"
+  },
+  {
+    "ingredientName": "Fresh Basil Leaves",
+    "ingredientID": "Fresh_Basil_Leaves",
+    "quantity": 0.5,
+    "unit": "cup",
+    "notes": "loosely packed, torn"
+  },
+  {
+    "ingredientName": "Cream Cheese",
+    "ingredientID": "Cream_Cheese",
+    "quantity": 8,
+    "unit": "oz",
+    "notes": "at room temperature"
+  },
+  {
+    "ingredientName": "Ricotta",
+    "ingredientID": "Ricotta",
+    "quantity": 8,
+    "unit": "oz",
+    "notes": "whole-milk"
+  },
+  {
+    "ingredientName": "Eggs",
+    "ingredientID": "Eggs",
+    "quantity": 2,
+    "unit": "large"
+  },
+  {
+    "ingredientName": "Mozzarella Cheese",
+    "ingredientID": "Mozzarella_Cheese",
+    "quantity": 16,
+    "unit": "oz",
+    "notes": "shredded"
+  },
+  {
+    "ingredientName": "Lasagna Noodles",
+    "ingredientID": "Lasagna_Noodles",
+    "quantity": 12,
+    "unit": "noodles",
+    "notes": "uncooked"
+  },
+  {
+    "ingredientName": "Fresh Mozzarella Balls",
+    "ingredientID": "Fresh_Mozzarella_Balls",
+    "quantity": 4,
+    "unit": "oz",
+    "notes": "torn into 1- to 2-inch chunks"
+  },
+  {
+    "ingredientName": "angel hair pasta",
+    "ingredientID": "Angel_Hair_Pasta",
+    "quantity": 16,
+    "unit": "oz",
+    "notes": "",
+    "optional": false
+  },
+  {
+    "ingredientName": "thin asparagus",
+    "ingredientID": "Thin_Asparagus",
+    "quantity": 16,
+    "unit": "oz",
+    "notes": "ends trimmed, cut into 2-inch pieces",
+    "optional": false
+  },
+  {
+    "ingredientName": "unsalted butter",
+    "ingredientID": "Unsalted_Butter",
+    "quantity": 8,
+    "unit": "tbsp",
+    "notes": "",
+    "optional": false
+  },
+  {
+    "ingredientName": "jumbo shrimp",
+    "ingredientID": "Jumbo_Shrimp",
+    "quantity": 16,
+    "unit": "oz",
+    "notes": "peeled and deveined",
+    "optional": false
+  },
+  {
+    "ingredientName": "good-quality dry white wine",
+    "ingredientID": "Dry_White_Wine",
+    "quantity": 1,
+    "unit": "cup",
+    "notes": "",
+    "optional": false
+  },
+  {
+    "ingredientName": "lemon juice",
+    "ingredientID": "Lemon_Juice",
+    "quantity": 8,
+    "unit": "tbsp",
+    "notes": "from about 2 lemons",
+    "optional": false
+  },
+  {
+    "ingredientName": "chopped fresh parsley",
+    "ingredientID": "Chopped_Fresh_Parsley",
+    "quantity": 2,
+    "unit": "tbsp",
+    "notes": "plus more for garnish (optional)",
+    "optional": false
+  },
+  {
+    "ingredientName": "extra virgin olive oil",
+    "ingredientID": "Extra_Virgin_Olive_Oil",
+    "quantity": 0,
+    "unit": "for drizzling",
+    "notes": "",
+    "optional": false
+  },
+  {
+    "ingredientName": "minced dill",
+    "ingredientID": "Minced_Dill",
+    "quantity": 1,
+    "unit": "tsp",
+    "notes": "for garnish (optional)",
+    "optional": false
+  },
+  {
+    "ingredientName": "Garlic",
+    "ingredientID": "Garlic",
+    "quantity": 10.25,
+    "notes": " ; ;minced ;minced",
+    "forms": [
+      "Garlic_Powder",
+      "Fresh_Garlic",
+      "Garlic_Cloves"
+    ],
+    "unit": "cloves"
+  },
+  {
+    "ingredientName": "Tomatotes",
+    "ingredientID": "Tomatotes",
+    "quantity": 116.0,
+    "notes": " ; ;",
+    "forms": [
+      "Stewed_Tomatoes",
+      "Roasted_Tomatoes"
+    ],
+    "unit": "oz"
+  },
+  {
+    "ingredientName": "Kosher Salt",
+    "ingredientID": "Kosher_Salt",
+    "quantity": 5.5,
+    "notes": " ; ;",
+    "forms": [
+      "Kosher_Salt",
+      "Kosher_Salt"
+    ],
+    "unit": "tsp"
+  }
+]
